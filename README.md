@@ -30,10 +30,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronald0204&layout=compact&theme=vue&langs_count=10")
 
-<br />
-
----
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=ronald0204&count_private=true&show_icons=true&theme=highcontrast)
 
 [twitter]: https://twitter.com/ronald45251997
