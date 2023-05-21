@@ -12,14 +12,6 @@
 - 🚵‍🚴 I love riding a bike
 - 🎞️ Love Films Action 
 
-### Connect with me:
-
-[<img align="left" alt="ronald45251997 | Twitter" width="22px" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" />][twitter]
-[<img align="left" alt="ronal-aguirre | LinkedIn" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="ronaldaguirre.medium.com | LinkedIn" width="22px" src="https://iconape.com/wp-content/files/kv/80919/png/medium-m.png" />][medium]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"/>][python]
