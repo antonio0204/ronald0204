@@ -1,5 +1,4 @@
 ### Hi there, I'm Ronald Aguirre Villalobos 👋  ![ViewCount](https://views.whatilearened.today/views/github/ronald0204/RonaldAguirre.svg?cache=remove)
-![https://api.whatsapp.com/send?phone=3185040951&text=hola%20bro!%20quiero%20saber%20mas%20de%20ti!](https://pbs.twimg.com/media/EssZRVeXIAEKK8I?format=jpg&name=4096x4096)
 
   Software Developer🔋💻.
   I'm full stack software development!
@@ -9,7 +8,6 @@
 - 💻 2021 Goals: Get an immersive development experience and knowledgmentes
 - 👯 Looking to collaborate on learning new languages
 - 💬 Ask me anything, maybe I can help you
-- 📫 Contact me: ronaldaguirre0204@gmail.com
 - 😼🐶 Cat and Dog lover
 - 🚵‍🚴 I love riding a bike
 - 🎞️ Love Films Action 
